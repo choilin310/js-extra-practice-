@@ -5,3 +5,6 @@ Create an Arithmetic Expression that uses four mathematical operators (+,-,/,*) 
 EX: (9+1)*6/2-1;
 */
 // YOUR CODE BELOW
+var myAge = 25 - 3 * 1 + 1;
+
+console.log(myAge);
